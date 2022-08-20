@@ -1,1 +1,4 @@
-Probadno editando desde vim :W 
+Probadno editando desde vim :W
+i
+
+otra linea
