@@ -2,3 +2,7 @@ Probadno editando desde vim :W
 i
 
 otra linea
+
+con i agrego linea
+w escribo
+q salgo
